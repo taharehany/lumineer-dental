@@ -3,6 +3,8 @@
 $(document).ready(function ($) {
 	"use strict";
 
+	//wow
+	new WOW().init();
 	/* global google: false */
 	/*jshint -W018 */
 
@@ -93,6 +95,7 @@ $(document).ready(function ($) {
 			}
 		}
 	});
+
 	/*-------------------------------------------------*/
 	/* = slider Testimonial
 	/*-------------------------------------------------*/
